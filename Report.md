@@ -141,6 +141,7 @@ Follow these steps to create a repository named `<your-username>/<your-username>
 - Check the box to initialize the repository with a README file.( Usng mardown language to add content in README file)
 An example of creating a repository is shown below:
 [Video Link](https://drive.google.com/file/d/1omcVRw9_LeleUgiPqiYpNYLz6jO8Kv2q/view?usp=sharing)
+
 Now having created a repository, we need to add content to our README file using markdown language, and push the changes to GitHub.
 We are going to add content to our README and initialize a local repository, commit the changes and push them to GitHub.
 
