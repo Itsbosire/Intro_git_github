@@ -4,6 +4,7 @@ This document provides a comprehensive guide on how to get started with Git and 
 
 ## Practical Session
 To follow along and practice the basic concepts outlined, please refer to the **Report.md** file [here](Report.md)
+
 Access the full documentation and report in this presentation [here](https://docs.google.com/presentation/d/1CUCHkxINM2EVOJqs--WzgKubVf6eUiEf/edit?slide=id.p1#slide=id.p1)
 
 ## Resources
