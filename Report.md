@@ -240,7 +240,7 @@ git clone url_of_the_repository
 
 #### Additional Resources
 
-- [Slides](./docs/Introduction-to-Git-and-GitHub.pptx)
+- [Slides](https://docs.google.com/presentation/d/1CUCHkxINM2EVOJqs--WzgKubVf6eUiEf/edit?usp=sharing&ouid=100433825166515123610&rtpof=true&sd=true)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
