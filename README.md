@@ -2,6 +2,9 @@
 
 This document provides a comprehensive guide on how to get started with Git and GitHub, including setting up your profile, creating a repository, and managing your code using version control.
 
+## Practical Session
+To follow along and practice the basic concepts outlined, please refer to the **Report.md** file [here](Report.md)
+
 ## Resources
 
 - [Git Documentation](https://git-scm.com/doc)
