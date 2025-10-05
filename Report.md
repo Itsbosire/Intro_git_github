@@ -122,10 +122,12 @@ Replace "Your Name" and "Your Email" with your actual name and email address ass
    - Make sure to save your changes.
 
 Creating your first special **username/username** repository that will always be the landing page for your profile.
-First things first download a mardown editor of your choice. I would recommend using Obsidian which is free and open source. You can download it from [here](https://obsidian.md/download).
+First things first download a mardown editor of your choice. I would recommend using Obsidian which is free and open source. 
+You can download it from [here](https://obsidian.md/download).
 If you want to use an all in one solution you can use [StackEdit](https://stackedit.io/app#) which is an online markdown editor.
 In adition, you can use [Visual Studio Code](https://code.visualstudio.com/) which is a code editor but also supports markdown files(this is what we are going to use in this training).
 Please download and install Visual Studio Code from the above link if you don't have it already [here](https://code.visualstudio.com/Download)
+
 Also, to learn more about markdown you can visit [this link](https://www.markdownguide.org/getting-started/)
 
 Follow these steps to create a repository named `<your-username>/<your-username>:`:
