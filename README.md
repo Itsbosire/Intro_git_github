@@ -1,6 +1,6 @@
 # Introduction to Git and GitHub
 
-This document provides a comprehensive guide on how to get started with Git and GitHub, including setting up your profile, creating a repository, and managing your code using version control.
+This repository provides a comprehensive guide on how to get started with Git and GitHub, including setting up your profile, creating a repository, and managing your code using version control.
 
 ## Resources
 
