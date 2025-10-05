@@ -4,6 +4,7 @@ This document provides a comprehensive guide on how to get started with Git and 
 
 ## Practical Session
 To follow along and practice the basic concepts outlined, please refer to the **Report.md** file [here](Report.md)
+Access the full documentation and report in this presentation [here](https://docs.google.com/presentation/d/1CUCHkxINM2EVOJqs--WzgKubVf6eUiEf/edit?slide=id.p1#slide=id.p1)
 
 ## Resources
 
@@ -13,4 +14,4 @@ To follow along and practice the basic concepts outlined, please refer to the **
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Obsidian](https://obsidian.md/)
 - [StackEdit](https://stackedit.io/app#)
-- [Presentation slides](./docs/Introduction-to-Git-and-GitHub.pptx)
+- [Presentation slides](https://docs.google.com/presentation/d/1CUCHkxINM2EVOJqs--WzgKubVf6eUiEf/edit?slide=id.p1#slide=id.p1)
