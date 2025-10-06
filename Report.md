@@ -89,6 +89,7 @@ Kindly follow the instructions to create your account.
 
 
 2. Install Git for your windows operating system from [here](https://git-scm.com/downloads/win)
+
 This is how the landing page looks like:
 ![Git Download Page](./assets/Git_download_page.png)
 
@@ -142,6 +143,7 @@ Follow these steps to create a repository named `<your-username>/<your-username>
 - Optionally, add a description.
 - Check the box to initialize the repository with a README file.( Usng mardown language to add content in README file)
 An example of creating a repository is shown below:
+
 [Video Link](https://www.youtube.com/watch?v=xvkKr0kzWd4)
 
 Now having created a repository, we need to add content to our README file using markdown language, and push the changes to GitHub.
