@@ -2,6 +2,12 @@
 
 This repository provides a comprehensive guide on how to get started with Git and GitHub, including setting up your profile, creating a repository, and managing your code using version control.
 
+Follow along the project basics [here](Report.md)
+
+Access the full documentation [here](https://docs.google.com/presentation/d/1CUCHkxINM2EVOJqs--WzgKubVf6eUiEf/edit?usp=sharing&ouid=100433825166515123610&rtpof=true&sd=true)
+
+
+
 ## Resources
 
 - [Presentation slides](https://docs.google.com/presentation/d/1CUCHkxINM2EVOJqs--WzgKubVf6eUiEf/edit?usp=sharing&ouid=100433825166515123610&rtpof=true&sd=true)
