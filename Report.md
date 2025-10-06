@@ -86,7 +86,6 @@ Git is a version control tool that track changes in files and stores the history
 
 Kindly follow the instructions to create your account.
 ![GitHub Sign Up Page](./assets/github_sign_up.png)
-
 2. Install Git for your windows operating system from [here](https://git-scm.com/downloads/win)
 This is how the landing page looks like:
 ![Git Download Page](./assets/Git_download_page.png)
@@ -100,7 +99,6 @@ git --version
 
 Here is how the output looks like:
 ![Git Version](./assets/Git_Version.png)
-
 3. After downloading, run the installer and follow the setup instructions. You can generally keep the default settings.
 4. Set up your Git username and email in the terminal or command prompt:
 
@@ -122,7 +120,7 @@ Replace "Your Name" and "Your Email" with your actual name and email address ass
    - Make sure to save your changes.
 
 Creating your first special **username/username** repository that will always be the landing page for your profile.
-First things first download a mardown editor of your choice. I would recommend using Obsidian which is free and open source. 
+First things first download a mardown editor of your choice. I would recommend using Obsidian which is free and open source.
 You can download it from [here](https://obsidian.md/download).
 If you want to use an all in one solution you can use [StackEdit](https://stackedit.io/app#) which is an online markdown editor.
 In adition, you can use [Visual Studio Code](https://code.visualstudio.com/) which is a code editor but also supports markdown files(this is what we are going to use in this training).
@@ -140,7 +138,7 @@ Follow these steps to create a repository named `<your-username>/<your-username>
 - Optionally, add a description.
 - Check the box to initialize the repository with a README file.( Usng mardown language to add content in README file)
 An example of creating a repository is shown below:
-[Video Link](https://drive.google.com/file/d/1omcVRw9_LeleUgiPqiYpNYLz6jO8Kv2q/view?usp=sharing)
+[Video Link](https://www.youtube.com/watch?v=xvkKr0kzWd4)
 
 Now having created a repository, we need to add content to our README file using markdown language, and push the changes to GitHub.
 We are going to add content to our README and initialize a local repository, commit the changes and push them to GitHub.
@@ -243,6 +241,8 @@ git clone url_of_the_repository
 
 #### Additional Resources
 
+- Here are some additional resources to help you learn more about Git and GitHub:
+- Mosh Hamedani's Git Tutorial for Beginners: [Watch here](https://www.youtube.com/watch?v=8JJ101D3knE)
 - [Slides](https://docs.google.com/presentation/d/1CUCHkxINM2EVOJqs--WzgKubVf6eUiEf/edit?usp=sharing&ouid=100433825166515123610&rtpof=true&sd=true)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Learning Lab](https://lab.github.com/)
