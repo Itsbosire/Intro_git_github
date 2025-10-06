@@ -86,6 +86,8 @@ Git is a version control tool that track changes in files and stores the history
 
 Kindly follow the instructions to create your account.
 ![GitHub Sign Up Page](./assets/github_sign_up.png)
+
+
 2. Install Git for your windows operating system from [here](https://git-scm.com/downloads/win)
 This is how the landing page looks like:
 ![Git Download Page](./assets/Git_download_page.png)
@@ -99,8 +101,10 @@ git --version
 
 Here is how the output looks like:
 ![Git Version](./assets/Git_Version.png)
+
 3. After downloading, run the installer and follow the setup instructions. You can generally keep the default settings.
-4. Set up your Git username and email in the terminal or command prompt:
+
+4. Set up your Git username and email in the terminal or command prompt using the following commands:
 
 ```bash
 git config --global user.name "Your Name"
